@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto de Teste consulta ViaCEP </h1>
 
 # Resumo do projeto
-Projeto desenvolvido para finalidade de uma avaliação da empresa FCamara junto ao cliente RaiaDrogasil S.A.
+Projeto desenvolvido para finalidade da avaliação da empresa FCamara junto ao cliente RaiaDrogasil S.A.
 
 ## ✔️ Técnicas e tecnologias utilizada
 
